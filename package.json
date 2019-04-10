@@ -1,0 +1,20 @@
+{
+  "name": "selflearrningnode",
+  "version": "1.0.0",
+  "description": "I will learn step-by--step",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "Vish",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.10.2",
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
